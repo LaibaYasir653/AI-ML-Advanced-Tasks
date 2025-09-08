@@ -14,6 +14,8 @@ from langchain.chains import ConversationalRetrievalChain
 from langchain.memory import ConversationBufferMemory
 from langchain.llms import OpenAI  # optional
 
+import streamlit as st
+st.set_option('server.fileWatcherType', 'none')
 
 # -------------------------
 # Helper functions
@@ -117,3 +119,4 @@ if user_input and st.session_state.qa_chain is not None:
 
 st.markdown("---")
 st.markdown("**Note:** Currently using a mock LLM. To use OpenAI GPT, set `llm_choice='openai'` and provide your API key.")
+
