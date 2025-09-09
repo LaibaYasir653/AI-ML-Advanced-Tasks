@@ -1,4 +1,4 @@
-# 🤖 Automated Support Ticket Tagging with LLMs
+#  🤖Automated Support Ticket Tagging with LLMs
 
 This project showcases how **Large Language Models (LLMs)** can be applied for the **automatic classification of support tickets** into meaningful categories.  
 The implementation demonstrates and compares the performance of **zero-shot** and **few-shot** prompting techniques for predicting the most relevant labels.
@@ -90,7 +90,8 @@ Integration: Connect with ticketing platforms like Zendesk or Freshdesk.
 # 📚 References
 
 Hugging Face Transformers Documentation: https://huggingface.co/docs/transformers
+Model Card: google/flan-t5-large
+Scikit-learn Metrics: https://scikit-learn.org/stable/modules/classes.html#module-sklearn.metrics
 ```bash
 
-## 📊 Example Output
 
