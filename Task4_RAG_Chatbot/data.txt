@@ -1,0 +1,46 @@
+# document
+This document dicusses the application of Artificial Intelligence(Ai) accross various domains including healthcare, finance and education.
+
+# RAG
+RAG (Retrieval-Augmented Generation) works by retrieving relevant documents from a knowledge base and using them as context for generating answers via a language model.
+Embeddings convert text into high-dimensional vectors so similarity searches can find relevant chunks of information.
+Vector stores, like Chroma or FAISS, are databases that store these embeddings for fast retrieval.
+Conversational memory allows the model to remember previous user queries and answers, providing context in multi-turn conversations.
+
+# Deep learning
+Deep learning is a subset of machine learning that uses neural networks with many layers to learn representations of data.
+An activation function in neural networks determines the output of a node given an input or set of inputs. Common activation functions include ReLU, Sigmoid, and Tanh.
+The ReLU (Rectified Linear Unit) function outputs the input if it is positive, otherwise 0.
+Sigmoid squashes input values to the range between 0 and 1, often used in probability estimation.
+Tanh outputs values between -1 and 1, often used to center data.
+
+# Artificial Intelligence
+Artificial Intelligence (AI) is the field of computer science that focuses on creating systems capable of performing tasks that normally require human intelligence. Examples include natural language processing, computer vision, and decision-making systems. Machine learning, deep learning, and reinforcement learning are subfields of AI.
+
+# Flask Framework
+Flask is a lightweight and flexible web framework written in Python. It is called a "microframework" because it does not require specific tools or libraries. Flask is widely used for building APIs, prototypes, and small to medium-sized web applications. Popular extensions include Flask-SQLAlchemy, Flask-Login, and Flask-WTF.
+
+# LangChain
+LangChain is a framework for building applications powered by large language models (LLMs). It supports Retrieval-Augmented Generation (RAG), conversational memory, and integration with APIs. LangChain makes it easier to connect LLMs with external data sources such as databases, APIs, and custom documents.
+
+# Cybersecurity
+Cybersecurity involves protecting computer systems, networks, and data from theft, damage, or unauthorized access. Key domains include network security, cloud security, digital forensics, and threat intelligence. Security analysts often use SIEM tools to detect and respond to cyber threats in real time.
+
+# Google Gemini
+Google Gemini is a family of generative AI models developed by Google DeepMind. It is designed for tasks such as reasoning, coding, multimodal processing, and conversational agents. Gemini is accessible via Google AI Studio and can be integrated into applications through APIs.
+
+# General Knowledge
+The Earth revolves around the Sun once every 365.25 days, which defines a year. 
+The Moon takes approximately 27.3 days to complete one orbit around the Earth.
+
+# Mathematics
+The derivative of a function measures how the function value changes with respect to changes in its input.
+For example, the derivative of f(x) = x^2 is f'(x) = 2x.
+
+An integral computes the area under a curve. For f(x) = x, the integral from 0 to 2 is 2.
+
+Light travels at approximately 3×10^8 meters per second in a vacuum.
+The speed of sound in air is approximately 343 meters per second.
+
+
+
